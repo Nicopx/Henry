@@ -1,0 +1,32 @@
+#divPadre{
+    height: 100px;
+    width: 1000px;
+    text-align: center;
+    background-color: cornsilk;
+}
+#divHijo{
+    height: 50px;
+    width: 400px;
+    margin: 0px auto;
+    background-color: floralwhite;
+}
+#divPadre1{
+    height: 150px;
+    width: 1000px;
+    background-color: cornsilk;
+}
+#divBody{
+    height: 900px;
+    width: 1000px;
+    background-color: cornsilk;
+}
+#divImg {
+    float: right;
+    width: 20px;
+    height: 150px;
+}
+
+img{
+    width: 180px;
+    height: 150px;
+}
